@@ -1,10 +1,10 @@
 # Scan-Matching-Localization
 Localization Using ICP
-#Step 1
+# Step 1
 - open c3-main.cpp file
 - Use ICP Function
 - Use voxel filter
-#Step 2
+# Step 2
 - open new terminal
 - write "su - student"
 - open "cd home/workspace/c3-project"
@@ -14,4 +14,4 @@ Localization Using ICP
 - write "cmake ."
 - then "make"
 - open cloud_loc "./cloud_loc"
-![Passed]([http://url/to/img.png](https://github.com/AhmedMahmoudAhmedMahmoud/Scan-Matching-Localization/blob/main/Passed.PNG))
+![Passed] https://github.com/AhmedMahmoudAhmedMahmoud/Scan-Matching-Localization/blob/main/Passed.PNG
